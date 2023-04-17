@@ -18,7 +18,6 @@ const onClickLogin = async () => {
   }
 
   const result = await validateUser(email);
-  console.log(result);
   if (result.error) {
     alert("Falha ao validar o e-mail.");
     return;
