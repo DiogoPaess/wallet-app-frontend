@@ -1,5 +1,7 @@
 # Wallet app
 
+<img src="https://github.com/DiogoPaess/wallet-app-frontend/blob/main/src/img/print%20wallet.png" alt="Wallet preview" height="248" width="678">
+
 # Introduction
 
 This is finance management dashboard made with JavaScript, HTML e CSS. The main objective is the user add and delete finances realases (that are saved in the api), and inform him the balance of the moth.
